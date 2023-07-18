@@ -2,11 +2,8 @@ sword and spear
 wall of shields
 standing strong 
 on this their chosen battlefield
-<<<<<<< HEAD
 
 From the lines shield by the shiedl
 Side by side
 We're matching into destiny
 ---------------
-=======
->>>>>>> d28bfdac2d63f70fc7f8c37c8fb39661194815be
